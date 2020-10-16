@@ -1,0 +1,16 @@
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.csprojAssemblyReference.cache
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.Form1.resources
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.Properties.Resources.resources
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.csproj.GenerateResource.cache
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.AssemblyInfoInputs.cache
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.AssemblyInfo.cs
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.csproj.CoreCompileInputs.cache
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.exe
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.deps.json
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.runtimeconfig.json
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.runtimeconfig.dev.json
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.dll
+C:\Rosana\memorygame\memorygame\bin\Debug\netcoreapp3.1\memorygame.pdb
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.dll
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.pdb
+C:\Rosana\memorygame\memorygame\obj\Debug\netcoreapp3.1\memorygame.genruntimeconfig.cache
